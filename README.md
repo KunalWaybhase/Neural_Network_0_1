@@ -7,4 +7,4 @@ Lets start with computing output of a single neuron. the formula goes as:
 compute multiple neurons at once, also known as a layer of neurons.
 
                 output=∑i=0n(inputi⋅weighti)+biases 
-[Adityadikonda10]
+[Adityadikonda10](https://github.com/Adityadikonda10)
